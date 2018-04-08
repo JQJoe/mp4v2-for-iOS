@@ -1,5 +1,5 @@
 
-# libmp4v2_build_script 
+# mp4v2_build_script 
 # Overview #
 the script is build mp4v2 liberary on ios support bitcode
 # License #
